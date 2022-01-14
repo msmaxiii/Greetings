@@ -3,7 +3,7 @@ const bodyParser = require('body-parser')
 const greetingsRoutes = require('./routes/greetingsroutes')
 const tiproutes = require('./routes/tiproutes')
 const magicroute = require('./routes/magicroutes')
-const pass_it_aroundroutes = require('./routes/pass_it_aroundroutes')
+const pass_it_aroundroutes = require('./routes/Pass-it-Aroundroutes')
 
 
 const port = 7000
